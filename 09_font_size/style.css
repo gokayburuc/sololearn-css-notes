@@ -1,0 +1,16 @@
+p.small {
+    font-size: small;
+}
+p.medium {
+    font-size: medium;
+}
+p.large {
+    font-size: large;
+}
+p.xlarge {
+    font-size: x-large;
+}
+
+/*
+Sitenizin görünümünü olumsuz etkileyeceği için kullanıcının yazı tipi boyutunu büyütmesini istemiyorsanız, anahtar kelimeler kullanışlıdır.
+*/
