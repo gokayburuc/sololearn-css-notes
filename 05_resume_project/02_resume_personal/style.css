@@ -1,0 +1,45 @@
+*{
+    font-family: "monospace";
+    background-color: black;
+    color: #33cc66;
+}
+
+#avatar {
+    border-radius: 50px;
+}
+
+.heading {
+    font-weight: bolder;
+    font-size: 150%;
+}
+
+.prof {
+    color: gray;
+    font-style: italic;
+    font-size: 125%;
+}
+
+.summary {
+    color: navy;
+    font-size: 100%;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+}
+
+
+.contactinfo {
+    font-size: 110%;
+}
+
+
+.summary h3 {
+    font: style bolder;
+    font-size: 125%;
+    background-color: black;
+    border-radius: 20px;
+    border-color: #33cc66;
+    border-style: groove;
+    padding: 5px;
+    margin: 5px;
+}
