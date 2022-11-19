@@ -1,0 +1,34 @@
+span.baseline{
+	vertical-align: baseline;
+	color: mediumblue;
+}
+
+/*	alta iner */
+span.sub{
+	vertical-align: sub;
+	color: pink;
+}
+
+/*üste cikar */
+span.super{
+	vertical-align: super;
+	color: springgreen;
+}
+
+/*belirtilen pixel kadar asagi ya da yukari cikar */
+span.pixel{
+	vertical-align: -10px;
+	color: rosybrown;
+}
+
+/*3 point yukari cikar negatifi asagi iner */
+span.point{
+	vertical-align: 3pt;
+	color: dodgerblue;
+}
+
+/*yüzde 33 yukari cikar */
+span.percentage{
+	vertical-align: 33%;
+	color: darkslategray;
+}

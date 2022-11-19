@@ -1,0 +1,16 @@
+p.left{
+	text-align: left;
+	color: blue;
+}
+
+
+p.right{
+	text-align: right;
+	color:darkred;
+}
+
+
+p.center{
+	text-align:center;
+	color:darkolivegreen;
+}

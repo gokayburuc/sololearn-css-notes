@@ -1,0 +1,15 @@
+p{
+/*	satir icine dogru 60 piksel iter */
+/*em,cm,pt gibi ölcü birimleri de kullanilabilir */
+	text-indent: 60px;
+	color: white;
+	background-color: navy;
+	font-family: "Arial";
+}
+
+span.capital{
+	font-size: 300%;
+	font-family: "Arial";
+	font-weight: bolder;
+	color: #33cc66;
+}

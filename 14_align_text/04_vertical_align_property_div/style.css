@@ -1,0 +1,13 @@
+/*display: inline-table eklendi */
+.main{
+	height: 150px;
+	width: 400px;
+	background-color: lightskyblue;
+	display: inline-table;
+}
+
+/*display:table-cell eklendi*/
+.paragraph{
+	display: table-cell;
+	vertical-align: middle;
+}

@@ -1,0 +1,10 @@
+h1 {
+	/*Mavi Renk verir */
+/*	hexadecimal colors */
+	color : #0000FF;
+}
+
+p.example{
+/*	Kırmızı renk verir */
+	color: rgb(255, 0, 0);
+}

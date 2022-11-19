@@ -1,0 +1,18 @@
+p.capitalize {
+	text-transform: capitalize;
+	color: cadetblue;
+	font-weight: bold;
+}
+
+p.uppercase{
+	text-transform: uppercase;
+	color: mediumpurple;
+	font-weight: bold;
+}
+
+
+p.lowercase{
+	text-transform: lowercase;
+	color: deeppink;
+	font-weight: bold;
+}

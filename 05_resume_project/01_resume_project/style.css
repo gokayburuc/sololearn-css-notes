@@ -1,5 +1,4 @@
 /* css code comes here */
-
 .heading{
     font-size: 35px;
 }
@@ -14,21 +13,39 @@ body{
     font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
 }
 
-
 .prof{
-
     font-size: 20px;
-
 }
 
 .contactinfo{
-
     font-size: 15px
-
 }
 
 .subheading{
-
     font-size: 20px;;
+}
+
+.intro{
+    background-color: #2F5A78;
+    color: white;
+}
+
+.subheading{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #2F5A78;
+}
+
+.icon{
+    color: #2F5A78;
+}
+
+.date{
+
+    font-size: 16px;
+
+    color: #2F5A78;
+
+    font-weight: bold;
 
 }

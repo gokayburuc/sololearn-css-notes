@@ -1,0 +1,20 @@
+td.top {
+	vertical-align: top;
+	color: red;
+	background-color: black;
+}
+
+
+td.middle{
+	vertical-align: middle;
+	color: yellowgreen;
+	background-color: black;
+}
+
+
+td.bottom{
+	vertical-align: bottom;
+	color:rebeccapurple;
+	background-color: black;
+}
+

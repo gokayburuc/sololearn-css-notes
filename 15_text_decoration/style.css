@@ -1,0 +1,30 @@
+p.none{
+	text-decoration: none;
+	color: red;
+}
+
+p.inherit{
+	text-decoration: inherit;
+	color: blue;
+}
+
+p.overline{
+	text-decoration: overline;
+	color: green;
+}
+
+p.underline{
+	text-decoration: underline;
+	color: purple;
+}
+
+p.line-through{
+	text-decoration: line-through;
+	color: navy;
+}
+
+p.blink{
+	text-decoration: blink;
+	color: yellow;
+	background-color: black;
+}
