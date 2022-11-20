@@ -1,0 +1,16 @@
+p.normal{
+	word-spacing: normal;
+}
+
+p.px {
+	word-spacing: 30px ;
+	color: darkred;
+}
+
+p.lorem-test{
+	word-spacing: normal;
+}
+
+p.lorem-normal{
+	color: navy;
+}
