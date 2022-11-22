@@ -1,0 +1,6 @@
+p{
+	white-space: nowrap;
+}
+
+
+/*Nowrap değeri, bir <br> etiketiyle karşılaşılıncaya kadar metnin aynı satırda devam etmesini sağlar ve ayrıca tüm boşluk dizilerini tek bir boşlukta daraltır.*/

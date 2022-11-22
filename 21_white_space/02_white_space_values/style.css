@@ -1,0 +1,16 @@
+p.pre {
+	white-space: pre;
+	color: navy;
+}
+
+
+p.preline {
+	white-space: pre-line;
+	color: green;
+}
+
+
+p.prewrap{
+	white-space: pre-wrap;
+	color: mediumpurple;
+}
