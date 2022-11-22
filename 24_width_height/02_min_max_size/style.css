@@ -1,0 +1,17 @@
+p.first {
+    border: 5px solid green;
+    min-height: 100px;
+}
+
+p.second {
+    border: 5px solid green;
+    max-width: 100px;
+}
+
+
+/* 
+min-width - the minimum width of an element
+min-height - the minimum height of an element
+max-width - the maximum width of an element
+max-height - the maximum height of an element 
+*/

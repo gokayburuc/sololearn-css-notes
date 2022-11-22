@@ -1,4 +1,4 @@
-*{
+* {
     font-family: "monospace";
     background-color: black;
     color: #33cc66;
@@ -29,7 +29,8 @@
 
 
 .contactinfo {
-    font-size: 110%;
+    font-size: 15px;
+    padding-left: 16px;
 }
 
 
@@ -42,4 +43,10 @@
     border-style: groove;
     padding: 5px;
     margin: 5px;
+}
+
+.intro {
+    background-color: #2f5a78;
+    color: white;
+    padding-left: 16px;
 }
