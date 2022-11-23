@@ -1,0 +1,11 @@
+ul.items {
+    /* shorthand property */
+    list-style: square outside none;
+}
+
+
+/* ul.items {
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: none;
+} */

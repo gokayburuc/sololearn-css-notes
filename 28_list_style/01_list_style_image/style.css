@@ -1,0 +1,11 @@
+ul.color {
+    list-style-type: lower-latin;
+}
+
+ul.city {
+    list-style-type: lower-greek;
+}
+
+ul.lesson {
+    list-style-type: square;
+}

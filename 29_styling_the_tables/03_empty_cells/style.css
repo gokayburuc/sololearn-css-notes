@@ -1,0 +1,6 @@
+/* boş hücreleri gizler  */
+
+table {
+    border-collapse: separate;
+    empty-cells: hide;
+}
