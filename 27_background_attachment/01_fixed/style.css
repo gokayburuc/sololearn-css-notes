@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://png.pngtree.com/element_origin_min_pic/16/07/13/105785aab459a86.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* sayfada scroll degisse de background sabit kalir */
+}
+
+div {
+    font-size: xx-large;
+    word-spacing: 50px;
+    line-height: 30px;
+}

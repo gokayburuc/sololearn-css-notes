@@ -1,0 +1,6 @@
+body {
+    background-image: url("https://png.pngtree.com/png-vector/20210525/ourlarge/pngtree-retro-traditional-islamic-pattern-lamp-png-image_3354718.jpg");
+    /* x ekseninde tekrarlar */
+    background-repeat: repeat-x;
+
+}
