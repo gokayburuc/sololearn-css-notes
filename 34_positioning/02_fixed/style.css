@@ -1,0 +1,13 @@
+p.position_fixed {
+    position: fixed;
+    top: 30px;
+    right: 5px;
+    color: blue;
+}
+
+
+/* bu öğe sayfa şekli değişse bile sabit kalır  */
+
+/* Sabit konumlu elemanlar normal akıştan çıkarılır. 
+Belge ve diğer öğeler, sabit konumlu öğe yokmuş gibi davranır.
+Sabit konumlu elemanlar, diğer elemanlarla örtüşebilir. */

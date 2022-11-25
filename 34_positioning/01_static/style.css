@@ -1,0 +1,13 @@
+p.position_static {
+    /* pozisyon statik olarak kabul edilir  */
+    position: static;
+    top: 30px;
+    right: 5px;
+    color: red;
+
+}
+
+/* HTML öğeleri varsayılan olarak statik olarak konumlandırılır. 
+Statik konumlandırılmış bir öğe, her zaman sayfanın normal akışına göre konumlandırılır. */
+
+/* Statik konumlandırılmış öğeler top, bottom, left ve right özelliklerinden etkilenmez. */

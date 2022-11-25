@@ -1,0 +1,8 @@
+div.hidden {
+    visibility: hidden;
+}
+
+
+/* visibility bir öğeyi gizlerken o öğe için fiziksel 
+bir yer tutar fakat aynı öğe display ile gizlendiğinde 
+o öğe için bir yer tutulmaz. */

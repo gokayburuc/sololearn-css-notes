@@ -1,0 +1,12 @@
+a:hover {
+    color: darkgreen;
+}
+
+a:visited {
+    color: purple;
+}
+
+
+/* When setting the style for several link states, there are some order rules:
+- a:hover MUST come after a:link and a:visited
+- a:active MUST come after a:hover */
