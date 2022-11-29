@@ -1,0 +1,8 @@
+.floating {
+    float: right;
+}
+
+.clearing {
+    /* her iki yönde de ifadeden silinen öğeler yer alıyor */
+    clear: both;
+}

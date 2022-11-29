@@ -1,0 +1,5 @@
+.floating {
+    float: right;
+}
+
+/* ilk öge floating öncesi yer aldığı icin float:right ifadesinden etkilenmedi */
